@@ -100,7 +100,7 @@ li.logout a:hover,  .navbar-default .navbar-nav > li > a:hover, .navbar-default 
 
 .hcontent{
     display: inline-block;
-    width: 200px;
+    /*width: 200px;*/
 
 }
 
@@ -109,6 +109,7 @@ li.logout a:hover,  .navbar-default .navbar-nav > li > a:hover, .navbar-default 
     padding: 12px 12px;
     /* margin: 0px 42px; */
     margin-right: 120px;
+    width: 400px;
 }
 
 
